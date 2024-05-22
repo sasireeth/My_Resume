@@ -1,0 +1,37 @@
+
+h1,h2{
+  text-align: center;
+}
+
+i{
+  margin-right: 1rem;
+}
+
+.info{
+  display: flex;
+  height: 50vh;
+  padding: 1rem;
+}
+
+.info1{
+  width: 40vw;
+}
+
+.my{
+  width: 45vw;
+}
+
+.vertical-line {
+  width: 1px;
+  background-color: #000; 
+  height: 70vh; 
+  margin: 0 20px; 
+}
+
+.contact,.skills,.edu,.about,.projects{
+  margin-top: 3rem;
+}
+
+span{
+  font-weight: bold;
+}
